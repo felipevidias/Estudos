@@ -37,5 +37,7 @@ public class Main
 
      System.out.println("Idade: "+ idade);
      System.out.println("Sexo: " + sexo); 
+
+     sc.close(); // bom colocar 
     }
 }
