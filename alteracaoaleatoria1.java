@@ -31,7 +31,7 @@ public class Main
         gerador.setSeed(4);
 
         // Entrada de dados
-        System.out.print("Digite uma palavra: ");
+        System.out.print("Digite uma string: ");
         String s = sc.next();
 
         for (int i = 0; i < s.length(); i++)

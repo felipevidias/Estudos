@@ -48,7 +48,7 @@ public class Main
         }
 
         System.out.println("O maior valor e: " + maior);
-        System.out.println("O segundo maior valor e: " + medio);
+        System.out.println("O segundo valor e: " + medio);
         System.out.println("O menor valor e: " + menor);
 
       

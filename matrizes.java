@@ -31,7 +31,7 @@ public class Main
         {
             for ( int j = 0; j < col; j = j + 1)
             {
-                System.out.print(mat[i][j] + " ");
+                System.out.print(mat[i][j] + "\t");
             }
             System.out.println();
         }

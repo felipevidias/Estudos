@@ -47,7 +47,7 @@ public class Main
                 if(mat[i][j] < 0)
                 {
                     neg = neg + 1;
-                }
+                } // end if
             } // end if 
         } // end for 
     } // end for 
